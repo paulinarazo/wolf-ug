@@ -1,0 +1,19 @@
+{
+  "name": "wolf-ug",
+  "version": "1.0.0",
+  "description": "Mi primer web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinarazo/wolf-ug.git"
+  },
+  "author": "paulina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinarazo/wolf-ug/issues"
+  },
+  "homepage": "https://github.com/paulinarazo/wolf-ug#readme"
+}
