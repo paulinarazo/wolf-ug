@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/paulinarazo/wolf-ug/issues"
   },
-  "homepage": "https://github.com/paulinarazo/wolf-ug#readme"
+  "homepage": "https://github.com/paulinarazo/wolf-ug#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
